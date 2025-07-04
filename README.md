@@ -77,8 +77,7 @@ SKU Rationalization: Eliminate or bundle underperforming products
 Store-Level Alerts: Targeted interventions for low-stock locations
 
 📎 Appendix
-SQLite Scripts & Detailed Queries: 🔗 Caselet-SQL Script (link to your script file)
-(Replace with actual GitHub repo/script URL)
+SQLite Scripts & Detailed Queries: https://drive.google.com/drive/folders/1GSB6gkOCd2XK0A7JExgc60C17_oqtzFC?usp=sharing
 
 👥 Team Members
 👨‍💼 Team Lead: Anup Raut – anupraut803@gmail.com
