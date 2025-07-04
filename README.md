@@ -1,5 +1,7 @@
 📦 Inventory Monitoring & Optimization Solution
+
 🔹 Caselet’25: The Ultimate Case Study Challenge
+
 🔸 Team BlueLock – Bajaj Institute of Technology, Wardha
 
 📘 Project Overview
